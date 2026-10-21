@@ -16,4 +16,5 @@ olacak bir dijital asistan tasarlamak
 7.	Adım 3'ye geri dön ve işlemleri tekrarla.
 8.	Kapakları aç, ekrana o anki saat değerini ve ölçülen su_seviyesini yazdır.
 9.	Bitir.
+    
 ![kod](https://github.com/foozsari-jpg/kod_-asistanim3/blob/36b893b81ae84333fd93a1853fc2b965ea96f2d0/algoritma.png)
